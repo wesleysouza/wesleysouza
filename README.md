@@ -10,6 +10,7 @@ Educational Background:
 
 IT Certifications:
 - Huawei Certified ICT Associate – Artificial Intelligence (HCIA AI v3.0).
+- Gitlab Certified Associate.
 
 Specialties: Problem Solving, Python, Java, Virtualization, and Computer Networks.
 
