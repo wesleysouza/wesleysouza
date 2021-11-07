@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-My name is Wesley. I'm 28 years old, and I like learning and sharing knowledge. I am a Ph.D. student in computer science and am working as an infrastructure analyst ans professor. I have experience with Computer Networks, Infrastructure as a Service, and Automation. In addition, I taught classes as a professor in the Computer Science course at the Federal University of Sergipe and Systems Analysis and Development at the Maurício de Nassau University Center.
+My name is Wesley. I'm 28 years old, and I like learning and sharing knowledge. I am a PhD student in computer science and am working as an Infrastructure Analyst. I have experience with Computer Networks, Infrastructure as a Service, and Programming with Python, C, and Java languages. I'm currently working with VDI, web development with Django, Microservices, and teaching programming with the C language.
 
 Educational Background:
-- B.S of Computer Science - 2017
-- MSc of Computer Science - 2019
+-B.S of Computer Science - 2017
+-MSc of Computer Science - 2019
 
 IT Certifications:
-- Huawei Certified ICT Associate – Artificial Intelligence (HCIA AI v3.0).
-- Gitlab Certified Associate.
+-Huawei Certified ICT Associate – Artificial Intelligence (HCIA AI v3.0).
+-Gitlab Certified Associate.
 
-Specialties: Problem Solving, Python, Java, Virtualization, and Computer Networks.
+Specialties: Python, C, and Computer Networks.
 
 <!--
 **wesleysouza/wesleysouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
