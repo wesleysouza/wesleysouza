@@ -9,6 +9,7 @@ Educational Background:
 IT Certifications:
 - Huawei Certified ICT Associate – Artificial Intelligence (HCIA AI v3.0).
 - Gitlab Certified Associate.
+- Oracle Cloud Infrastructure Foundations 2021 Associate.
 
 Specialties: Python, C, and Computer Networks.
 
