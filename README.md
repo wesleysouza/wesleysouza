@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Wesley. I'm 28 years old, and I like learning and sharing knowledge. I am a PhD student in computer science and am working as an Infrastructure Analyst. I have experience with Computer Networks, Infrastructure as a Service, and Programming with Python, C, and Java languages. I'm currently working with VDI, web development with Django, Microservices, and teaching programming with the C language.
+My name is Wesley. I'm 29 years old, and I like learning and sharing knowledge. I am a PhD student in computer science and am working as an Infrastructure Analyst. I have experience with Computer Networks, Infrastructure as a Service, and Programming with Python, C, and Java languages. I'm currently working with VDI, web development with Django, Microservices, and teaching programming with the C language.
 
 Educational Background:
 - B.S of Computer Science - 2017
@@ -10,6 +10,7 @@ IT Certifications:
 - Huawei Certified ICT Associate – Artificial Intelligence (HCIA AI v3.0).
 - Gitlab Certified Associate.
 - Oracle Cloud Infrastructure Foundations 2021 Associate.
+- Azure AI Fundamentals
 
 Specialties: Python, C, and Computer Networks.
 
