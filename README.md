@@ -1,6 +1,8 @@
 ### Olá 👋
 
-Meu nome é Wesley Oliveira Souza e tenho 29 anos. Gosto de aprender, compartilhar conhecimento e trabalhar de maneira colaborativa. Possuo interesse na aplicação das práticas SRE para a implementação da metodologia DevOps. Meu objetivo é contribuir no desenvolvimento de aplicações resilientes, confiáveis e seguras. Para alcançar esse propósito, atualmente estou aprofundando os meus estudos em Cloud (GCP), orquestração de containers (Kubernetes) e ferramentas de infraestrutura como código.
+Meu nome é Wesley Oliveira Souza e tenho 29 anos. 
+
+Gosto de aprender, compartilhar conhecimento e trabalhar de maneira colaborativa. Possuo interesse na aplicação das práticas SRE para a implementação da metodologia DevOps. Meu objetivo é contribuir no desenvolvimento de aplicações resilientes, confiáveis e seguras. Para alcançar esse propósito, atualmente estou aprofundando os meus estudos em Cloud (GCP), orquestração de containers (Kubernetes) e ferramentas de infraestrutura como código.
 
 Educação:
 - Bacharel em Ciência da Computação - 2011-2017;
