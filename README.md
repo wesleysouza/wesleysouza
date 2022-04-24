@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá 👋
 
-My name is Wesley. I'm 29 years old, and I like learning and sharing knowledge. I am a PhD student in computer science and am working as an Infrastructure Analyst. I have experience with Computer Networks, Infrastructure as a Service, and Programming with Python, C, and Java languages. I'm currently working with VDI, web development with Django, Microservices, and teaching programming with the C language.
+Meu nome é Wesley Oliveira Souza e tenho 29 anos. Gosto de aprender, compartilhar conhecimento e trabalhar de maneira colaborativa. Possuo interesse na aplicação das práticas SRE para a implementação da metodologia DevOps. Meu objetivo é contribuir no desenvolvimento de aplicações resilientes, confiáveis e seguras. Para alcançar esse propósito, atualmente estou aprofundando os meus estudos em Cloud (GCP), orquestração de containers (Kubernetes) e ferramentas de infraestrutura como código.
 
-Educational Background:
-- B.S of Computer Science - 2017
-- MSc of Computer Science - 2019
+Educação:
+- Bacharel em Ciência da Computação - 2011-2017;
+- Mestre em Ciência da Computação - 2017-2019;
+- Doutorado em Ciência da Computação - 2021-em andamento.
 
-IT Certifications:
+Certificações de TI:
 - Huawei Certified ICT Associate – Artificial Intelligence (HCIA AI v3.0).
 - Gitlab Certified Associate.
 - Oracle Cloud Infrastructure Foundations 2021 Associate.
-- Azure AI Fundamentals
+- Azure AI Fundamentals.
+- Azure Fundamentals AZ-900.
 
 Specialties: Python, C, and Computer Networks.
 
