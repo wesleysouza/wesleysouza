@@ -15,6 +15,8 @@ Certificações de TI:
 - Oracle Cloud Infrastructure Foundations 2021 Associate.
 - Azure AI Fundamentals.
 - Azure Fundamentals AZ-900.
+- AWS Cloud Practitioner.
+- Certified Kubernetes Administrator (CKA).
 
 Specialties: Python, C, and Computer Networks.
 
