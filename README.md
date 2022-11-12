@@ -20,6 +20,8 @@ Certificações de TI:
 
 Specialties: Python, C, and Computer Networks.
 
+<a rel="me" href="https://bolha.us/@wesley">Mastodon</a>
+
 <!--
 **wesleysouza/wesleysouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
